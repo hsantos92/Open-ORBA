@@ -1,0 +1,13 @@
+Open-ORBA is an independent experimental project for Artiphon ORBA 3 only.
+Artiphon and ORBA are trademarks of their respective owners.
+
+Protocol reference:
+  Orba Protocol, holofermes and contributors
+  https://github.com/holofermes/orba-protocol
+  Community specification licensed under Creative Commons Attribution 4.0:
+  https://creativecommons.org/licenses/by/4.0/
+
+Open-ORBA implements its own framing codec and Linux transport, informed by
+that specification and inspection of user-supplied desktop software. It does
+not bundle the reference project's library, vendor executable, sound assets,
+or firmware. ORBA 3 behavior is implemented and tested independently.

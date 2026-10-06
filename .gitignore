@@ -1,0 +1,28 @@
+# User content and proprietary/reference assets
+/library/
+/backups/
+/research/
+/ui_preview.py
+/smoke.py
+*.artipreset
+*.artisong
+*.artistem
+*.artibundle
+*.wav
+*.mp3
+*.flac
+*.mid
+*.zip
+*.dmg
+*.exe
+*.bin
+
+# Runtime and local environment
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
